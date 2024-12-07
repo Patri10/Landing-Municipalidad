@@ -518,6 +518,9 @@ section{
     .services h2{
         margin-bottom: auto;
     }
+    .services-grid{
+        grid-template-columns: 1fr;
+    }
 }
 
 @media (max-width: 1024px) {
